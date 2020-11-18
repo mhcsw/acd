@@ -3,8 +3,8 @@ package alg;
 public class www {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub¡¢
+		// TODO Auto-generated method stubÂ¡Â¢
 		System.out.println("sdcfsd");
 	}
-
+dvb ajssxzcnxvzdsvcvd 
 }
